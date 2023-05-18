@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760638918166",
+    "project_id": "flashing-chat-5cba0",
+    "storage_bucket": "flashing-chat-5cba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760638918166:android:f11fa79093eb4433056f37",
+        "android_client_info": {
+          "package_name": "com.totem.flashing_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760638918166-5qa5uilhtm7noe82a4448uek10fn8h9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUnLvBCqAVivSbIpw3JAP_th_X2Lxxd-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760638918166-5qa5uilhtm7noe82a4448uek10fn8h9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
